@@ -1,2 +1,1 @@
-# Impact-of-the-choice-of-Bayesian-priors-in-cosmological-analyses-Skip-to-end-of-metadata
-Code developed for my Senior Honours Project in the University of Edinburgh
+An essential aim of this code is to achieve importance sampling quickly so a large data set can be used for the study.
